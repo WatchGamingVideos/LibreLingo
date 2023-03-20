@@ -13895,10 +13895,10 @@ source-map-js@^1.0.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.1.tgz#a1741c131e3c77d048252adfa24e23b908670caf"
   integrity sha512-4+TN2b3tqOCd/kaGRJ/sTYA0tR0mdXx26ipdolxcwtJVqEnqNYvlCAt1q3ypy4QMlYus+Zh34RNtYLoq2oQ4IA==
 
-source-map-loader@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/source-map-loader/-/source-map-loader-3.0.1.tgz#9ae5edc7c2d42570934be4c95d1ccc6352eba52d"
-  integrity sha512-Vp1UsfyPvgujKQzi4pyDiTOnE3E4H+yHvkVRN3c/9PJmQS4CQJExvcDvaX/D+RV+xQben9HJ56jMJS3CgUeWyA==
+source-map-loader@3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/source-map-loader/-/source-map-loader-3.0.2.tgz#af23192f9b344daa729f6772933194cc5fa54fee"
+  integrity sha512-BokxPoLjyl3iOrgkWaakaxqnelAJSS+0V+De0kKIq6lyWrXuiPgYTGp6z3iHmqljKAaLXwZa+ctD8GccRJeVvg==
   dependencies:
     abab "^2.0.5"
     iconv-lite "^0.6.3"
