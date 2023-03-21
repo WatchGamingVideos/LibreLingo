@@ -12118,10 +12118,10 @@ p-map@^4.0.0:
   dependencies:
     aggregate-error "^3.0.0"
 
-p-memoize@6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/p-memoize/-/p-memoize-6.0.1.tgz#786410dcc98d70e1e15cb81de6b38eaad8826e8e"
-  integrity sha512-DG0wxA5fIYor0ypRltebDEZs45ZFRvgztFGv/+glYMdUCIaI9eZKIsNJ2IVihw6LYVUgfhIHtPG5XUgvN+pLtQ==
+p-memoize@6.0.2:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/p-memoize/-/p-memoize-6.0.2.tgz#d760f3687804cdc78ae96d90bc264df1d8a578d9"
+  integrity sha512-sO7/Gd4hBVn7xq8WMIiSzhOYXHVWGJhc8hpM6t7Ahuqbj/lZGssBG5mUBjLEdE84lnP64K78mNumbB9v5i4AoQ==
   dependencies:
     mimic-fn "^4.0.0"
 
