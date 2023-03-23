@@ -3324,22 +3324,23 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@knapsack-pro/core@^3.2.0":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@knapsack-pro/core/-/core-3.3.1.tgz#db9e69c2fcc27c2e5c58f07ded598eb10a9b31bc"
-  integrity sha512-x0EU3C5G/HE4xL4HVdpVQ17jW7EWvuTNrGv1nJ0gvXOgP3XNmibwbBLN+699px8mAzabrSXjO8QBK36LKKd83A==
+"@knapsack-pro/core@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@knapsack-pro/core/-/core-4.0.0.tgz#3b00ef9bde572ab46618a0fd76b42bbad1b64b8a"
+  integrity sha512-I7bMzDA9i517BPAObrTUTPLiA0IhXjkHvsy6hBMJ2dwv1Fl6wZG62/KUiXScYq3Vms1kRTKKXW9rU1KQWEkNpg==
   dependencies:
     axios "^0.27.2"
     axios-retry "^3.2.5"
     winston "^3.7.2"
 
-"@knapsack-pro/cypress@4.6.0":
-  version "4.6.0"
-  resolved "https://registry.yarnpkg.com/@knapsack-pro/cypress/-/cypress-4.6.0.tgz#a317b41fc790cb4d9739fb7ea8cf8fe2958e9ecc"
-  integrity sha512-QTX6pkJ2dKPES52qhZzlOfo50ifd4UfB8Id9owmFUPANt/hG9dO26g5RZj1oQpqpAAMpZX/7F7+Y2WVVxtggag==
+"@knapsack-pro/cypress@5.5.0":
+  version "5.5.0"
+  resolved "https://registry.yarnpkg.com/@knapsack-pro/cypress/-/cypress-5.5.0.tgz#378e7db3c8ebd8c9f7993bf48e3a9ade58e6317b"
+  integrity sha512-xWnLMrkawSClbHLVl7QZj+134cGPetxiOI7vFdjV4JFt0bm55ISyBXLC7wnqAL3RW8KsWfruCDZhvLmXsPhomw==
   dependencies:
-    "@knapsack-pro/core" "^3.2.0"
-    glob "^8.0.3"
+    "@knapsack-pro/core" "^4.0.0"
+    glob "^8.1.0"
+    minimatch "^5.1.4"
     minimist "^1.2.6"
     uuid "^8.3.2"
 
@@ -8561,7 +8562,7 @@ glob@^7.2.0:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
-glob@^8.0.3:
+glob@^8.1.0:
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/glob/-/glob-8.1.0.tgz#d388f656593ef708ee3e34640fdfb99a9fd1c33e"
   integrity sha512-r8hpEjiQEYlF2QU0df3dS+nxxSIreXQS1qRhMJM0Q5NDdR386C7jb7Hwwod8Fgiuex+k0GFjgft18yvxm5XoCQ==
@@ -11550,7 +11551,7 @@ minimatch@^3.0.4, minimatch@~3.0.2:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimatch@^5.0.1:
+minimatch@^5.0.1, minimatch@^5.1.4:
   version "5.1.6"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-5.1.6.tgz#1cfcb8cf5522ea69952cd2af95ae09477f122a96"
   integrity sha512-lKwV/1brpG6mBUFHtb7NUmtABCb2WZZmm2wNiOA5hAb8VdCS4B3dtMWyvcoViccwAW/COERjXLt0zP1zXUN26g==
