@@ -71,7 +71,7 @@
     "@knapsack-pro/cypress": "4.6.0",
     "@percy/cli": "1.21.0",
     "@percy/cypress": "3.1.2",
-    "@types/node": "16.18.18",
+    "@types/node": "16.18.19",
     "@types/sortablejs": "1.10.7",
     "babel-jest": "27.5.1",
     "babel-plugin-istanbul": "6.1.1",
