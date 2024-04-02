@@ -59,7 +59,7 @@
     "remark": "13.0.0",
     "remark-parse": "9.0.0",
     "remark-rehype": "8.1.0",
-    "sirv": "2.0.2",
+    "sirv": "2.0.4",
     "sortablejs": "1.15.0",
     "svelte-i18n": "3.6.0"
   },
